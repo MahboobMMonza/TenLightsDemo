@@ -443,7 +443,7 @@ void setup()
  * to display. When no buttons are pressed,
  * this allows for patterns to repeat (except
  * the fourth pattern which requires an initial
- * configuration before repetion, which would
+ * configuration before repetition, which would
  * be inefficient to run each time).
  */
 void loop()

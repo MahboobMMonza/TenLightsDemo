@@ -23,7 +23,6 @@ found in [TinkerCAD Reproduction](#tinkercad-reproduction).
   - 10, 20, and 30 LEDs are also acceptable
 - Pushbuttons (2)
 - Wires (28)
-  - Amount can vary depending on number of LEDs used
 - Circuit breadboard (1)
 
 ## Software Specifications
